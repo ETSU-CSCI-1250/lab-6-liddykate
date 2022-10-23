@@ -1,0 +1,15 @@
+/Users/lydiaulmer/Projects/Homework6/Homework6/bin/Debug/net6.0/Homework6
+/Users/lydiaulmer/Projects/Homework6/Homework6/bin/Debug/net6.0/Homework6.deps.json
+/Users/lydiaulmer/Projects/Homework6/Homework6/bin/Debug/net6.0/Homework6.runtimeconfig.json
+/Users/lydiaulmer/Projects/Homework6/Homework6/bin/Debug/net6.0/Homework6.dll
+/Users/lydiaulmer/Projects/Homework6/Homework6/bin/Debug/net6.0/Homework6.pdb
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.AssemblyReference.cache
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfoInputs.cache
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfo.cs
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.CoreCompileInputs.cache
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.dll
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/refint/Homework6.dll
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.pdb
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/Homework6.genruntimeconfig.cache
+/Users/lydiaulmer/Projects/Homework6/Homework6/obj/Debug/net6.0/ref/Homework6.dll
